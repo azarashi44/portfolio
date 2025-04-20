@@ -15,7 +15,7 @@ export default function Home() {
       <Contact />
 
       {/* なんか適当に書いてるセクション */}
-      <h1>hogeサバの味噌煮</h1>
+        <h1>hogeサバの味噌煮</h1>
       <p>このサイトは、サバが運営するサイトです。</p>
     </div>
   );
