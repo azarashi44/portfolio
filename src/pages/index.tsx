@@ -1,6 +1,6 @@
-import Top from "../components/pages/top"
-import Works from "../components/pages/works"
-import Contact from "../components/pages/contact"
+import Top from "../components/pages/top";
+import Works from "../components/pages/works";
+import Contact from "../components/pages/contact";
 
 export default function Home() {
   return (
@@ -15,7 +15,7 @@ export default function Home() {
       <Contact />
 
       {/* なんか適当に書いてるセクション */}
-        <h1>hogeサバの味噌煮</h1>
+      <h1>hogeサバの味噌煮</h1>
       <p>このサイトは、サバが運営するサイトです。</p>
     </div>
   );
