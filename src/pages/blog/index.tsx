@@ -1,5 +1,4 @@
 import React from 'react';
-import localFont from "next/font/local";
 import Top from "../../components/pages/top";
 import Works from "../../components/pages/works";
 import Contact from "../../components/pages/contact";
